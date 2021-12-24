@@ -1,2 +1,2 @@
-# a-to-m-bubble-sort
-A Bubble Sort implementation using only the first half of the alphabet in Python
+# a-to-m-sort
+A Sort Algorithm implemented in Python without using the second half of the alphabet (n-z).
